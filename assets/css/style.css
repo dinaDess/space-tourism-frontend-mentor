@@ -240,6 +240,8 @@ a {
   .navigation .navigation-list li {
     border-right: none;
     border-bottom: 4px solid transparent;
+    margin-left: .5rem;
+    margin-right: .5rem;
   }
 
   .navigation .navigation-list li.active {
@@ -286,8 +288,6 @@ a {
   .navigation .navigation-list li {
     margin-top: 0;
     margin-bottom: 0;
-    margin-left: .5rem;
-    margin-right: .5rem;
   }
 
   .navigation-list li a {
