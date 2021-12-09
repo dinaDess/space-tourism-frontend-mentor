@@ -47,10 +47,10 @@ Here is a screenshot of my landing page in Firefox Developer.
 ### What I learned
   #### CSS backdrop-filter property
 On the landing page, the main thing I learned is how to create a blurred background.
-I first opted for *filter : blur(..px)* but the only result I got was the whole section and the text blurred instead of the
+I first opted for **filter : blur(..px)** but the only result I got was the whole section and the text blurred instead of the
 image in the background. 
 And then I discovered **backdrop-filter: blur(..px)** who did the job pretty well until I realised that it wasn't supported on Firefox and no prefix can change that fact. 
-So I did some quick fixes in my browser i.e *setting the layout.css.backdrop-filter.enabled and gfx.webrender.all preference to true in about:config* (Thanks to caniuse (https://caniuse.com/) and MDN). 
+So I did some quick fixes in my browser i.e **setting the layout.css.backdrop-filter.enabled and gfx.webrender.all preference to true in about:config** (Thanks to caniuse (https://caniuse.com/) and MDN). 
 
 
   #### Github Pages
@@ -59,7 +59,7 @@ Here, I learned how to setup Github Pages to host my static website.
 
 ### Continued development
 
-I want to keep learning JS cause the little JS stuff I did here where really basic.
+Learn advanced JS
 
 
 ### Useful resources
