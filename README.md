@@ -32,7 +32,8 @@ Users should be able to:
 
 ### Screenshot
 Here is a screenshot of my landing page in Firefox Developer.
-[Screenshot of the Landing Page](./myPreview.png) 
+[Screenshot of the Landing Page](./myPreview.png)
+<img src="./myPreview.png" alt="My Homepage Preview"/>
 
 ## My process
 
@@ -59,7 +60,7 @@ Here, I learned how to setup Github Pages to host my static website.
 
 ### Continued development
 
-Learn advanced JS
+Learn JS
 
 
 ### Useful resources
