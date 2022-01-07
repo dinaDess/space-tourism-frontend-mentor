@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/mobile-first-space-tourism-challenge-solution-using-css-flexbox-gHHl7huZt)
-- Live Site URL: [Add live site URL here](https://dinadess.github.io/space-tourism-frontend-mentor/index.html)
+- Solution URL: [Check out my solution on Frontend Mentor](https://www.frontendmentor.io/solutions/mobile-first-space-tourism-challenge-solution-using-css-flexbox-gHHl7huZt)
+- Live Site URL: [Link to my website hosted on Github Pages](https://dinadess.github.io/space-tourism-frontend-mentor/index.html)
 
 ### Screenshot
 
@@ -71,4 +71,4 @@ Learn JS
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com) (Loading...)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/dinaDess)
+- Frontend Mentor - [@dinaDess](https://www.frontendmentor.io/profile/dinaDess)
